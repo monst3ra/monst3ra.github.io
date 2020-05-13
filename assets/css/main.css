@@ -85,14 +85,14 @@
 	}
 
 	html, body {
-		background-color: #101010;
+		background-color: #ffd0af;
 		overflow: hidden;
 	}
 
 /* Type */
 
 	html {
-		font-size: 16pt;
+		font-size: 14pt;
 	}
 
 		@media screen and (max-width: 1680px) {
@@ -112,16 +112,16 @@
 		}
 
 	body {
-		background-color: #fff;
+		background-color: #ffd0af;
 		color: #aaa;
 	}
 
 	body, input, select, textarea {
-		font-family: "Roboto", Helvetica, sans-serif;
-		font-weight: 400;
+		font-family: Times New Roman;
+		font-weight: 500;
 		line-height: 1.65;
 		font-size: 1em;
-		color: #aaa;
+		color: #000000;
 	}
 
 	a {
