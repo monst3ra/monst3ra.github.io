@@ -86,7 +86,7 @@
 
 	html, body {
 		background-color: #ffd0af;
-		
+	
 	}
 
 /* Type */
@@ -113,7 +113,7 @@
 
 	body {
 		background-color: #ffd0af;
-		color: #aaa;
+		color: #ffd0af;
 	}
 
 	body, input, select, textarea {
