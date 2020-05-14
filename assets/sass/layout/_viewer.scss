@@ -118,21 +118,7 @@
 			opacity: 1;
 			z-index: 1;
 
-			.caption {
-				@include vendor('background-image', (
-					
-				@include padding(2em, 2em);
-				position: absolute;
-				bottom: 0;
-				left: 0;
-				width: 100%;
-				color: rgba(255,255,255,0.5);
-				z-index: 1;
-
-				h2, h3, h4, h5, h6 {
-					color: #fff;
-				}
-			}
+			
 
 			.image {
 				@include vendor('transition', 'opacity #{_duration(slide)} ease-in-out');
