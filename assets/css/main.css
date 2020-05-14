@@ -721,8 +721,8 @@
 		height: 100%;
 		background: #ffd0af;
 		outline: 0;
-		overflow-x: hidden;
-		overflow-y: auto;
+		overflow-x: scroll;
+		overflow-y: scroll;
 		text-align: right;
 		visibility: visible;
 		z-index: 10000;
