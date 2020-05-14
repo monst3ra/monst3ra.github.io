@@ -864,7 +864,7 @@
 
 			#thumbnails article .thumbnail {
 				-webkit-tap-highlight-color: transparent;
-				display: flex;
+				display: contents;
 				position: relative;
 				border: 0;
 				outline: 0;
