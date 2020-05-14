@@ -770,7 +770,7 @@
 		@media screen and (max-width: 980px) {
 
 			#main {
-				background: rgba(255, 255, 255, 0.925);
+				background: #ffd0af;
 			}
 
 				#main .toggle {
@@ -787,7 +787,7 @@
 				-ms-transition: opacity 0.5s ease, visibility 0.5s;
 				transition: opacity 0.5s ease, visibility 0.5s;
 				width: 100%;
-				background: #fff;
+				background: #ffd0af;
 				text-align: center;
 			}
 
