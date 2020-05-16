@@ -300,6 +300,7 @@
 		button.icon,
 		.button.icon {
 			padding-left: 1.35em;
+			size: 50%
 		}
 
 			input[type="submit"].icon:before,
