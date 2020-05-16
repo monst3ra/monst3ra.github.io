@@ -265,7 +265,7 @@
 		-ms-transition: background-color 0.25s ease-in-out, border-color 0.25s ease-in-out, color 0.25s ease-in-out;
 		transition: background-color 0.25s ease-in-out, border-color 0.25s ease-in-out, color 0.25s ease-in-out;
 		background-color: transparent;
-		border-radius: 4px;
+		border-radius: 0px;
 		border: solid 1px #ccc;
 		color: #000000;
 		cursor: pointer;
